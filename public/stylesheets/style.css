@@ -6,3 +6,17 @@ body {
 a {
   color: #00B7FF;
 }
+
+.landing {
+  background-image: url("https://staticdelivery.nexusmods.com/mods/952/images/1222-0-1453689066.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.btn-primary {
+  opacity: .6;
+  background-color:#000000;
+}
+
+
+
